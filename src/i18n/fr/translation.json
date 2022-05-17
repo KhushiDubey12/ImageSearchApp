@@ -1,0 +1,18 @@
+{
+    "pageNotFoundTitle": "Désolé, page introuvable !",
+    "pageNotFoundSubtitle": "Désolé, nous n'avons pas trouvé la page que vous recherchez. Peut-être avez-vous mal saisi l'URL ? Assurez-vous de vérifier votre orthographe.",
+    "unauthorizedPageTitle": "Non autorisé, accès refusé en raison d'informations d'identification non valides",
+    "unauthorizedPageSubTitle": "Votre autorisation a échoué, veuillez réessayer.",
+    "serverErrorPageTitle": "Erreur de serveur interne",
+    "serverErrorPageSubTitle": "Le serveur a rencontré une erreur interne ou une mauvaise configuration et n'a pas pu traiter votre demande.",
+    "goHomeButtonTitle": "Aller à la maison",
+    "landingPageTitle": "Flickr",
+    "emptyStateText": "Rechercher des photos",
+    "searchButtonText": "Recherche",
+    "emptyStateErrorMessage": "Veuillez entrer un mot-clé pour rechercher des photos.",
+    "navbarText": "résultats pour",
+    "favouriteTabText": "Favoris",
+    "backToResultsText": "Retour aux résultats",
+    "resultsText": "Résultats pour",
+    "favoritesButtonText": "Favoris"
+}
